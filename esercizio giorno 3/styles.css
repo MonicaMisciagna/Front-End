@@ -1,0 +1,51 @@
+*{ color: #333;
+   font-family: 'Times New Roman', Times, serif;
+}
+header{ text-align: center;
+}
+h1{ text-align: center;
+}
+article p a {color: #004d4c;
+}
+video{
+    border-radius: 2%;
+  
+}
+video{}
+
+.div1{    
+    border-top-color: coral;
+    border-top-style: solid;
+    color: #004d4c;
+    background-color: lemonchiffon;
+    }
+#featured{color: darkred;
+
+ }
+
+
+ #sottotitolo{ color: grey;
+    text-align: center;
+    
+
+  }
+
+
+ .correlato{ border-left-style: solid;
+    border-left-color:coral;
+
+ }
+
+ .correlato a { 
+    color: #004d4c;
+ }
+ #ingredients{ border-bottom-style: solid;
+    border-bottom-color: aqua;
+    
+ }
+
+ #the{
+
+    border-bottom-style: solid;
+    border-bottom-color: aqua;
+ }
