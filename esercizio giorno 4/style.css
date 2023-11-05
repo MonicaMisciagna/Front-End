@@ -1,0 +1,254 @@
+
+
+html{ background-color: rgb(230, 250, 250);
+    background-image: url(assets/img/sfondo.png);
+    background-repeat: repeat;
+    background-position: center top;
+    background-size: auto;
+    font-size: 1em;
+    font-family: poppins, sans-serif;
+} 
+
+body{ 
+    
+    width: 500px;
+    margin: 0 auto;
+} 
+
+
+
+header{ background:linear-gradient(0deg, rgba(0,114,136,1) 0%, rgba(0,153,204,1) 100%);
+    color: white;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: content-box;
+    box-shadow: 10px 10px 10px grey;
+}
+header img{
+    
+    padding: 20px;
+}
+header a{text-decoration: none;
+    
+    color: white;
+}
+
+
+header ul{
+    list-style: none;
+    padding: 20px;
+    font-weight: bold;
+}
+
+header li{
+    padding: 5px;
+}
+
+header p{
+    padding: 10px;
+    font-weight: bold;
+
+}
+main{box-sizing: border-box;
+     border: 1px;
+    background-color: #f2f2f2;
+    box-shadow: 10px 10px 10px grey;
+    
+
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+.autore{  color: gray;
+    padding: 5px;
+  ;
+}
+
+main h1{
+    padding: 10px;
+}
+
+main p{
+    padding: 15px;
+}
+
+main ul {
+    list-style: disc;
+}
+
+main ol{
+    list-style: decimal;
+}
+
+strong {
+    color: #a02571;
+    font-weight: bold;
+}
+code{
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 6px;
+    line-height: 40px;
+}
+th {
+        background-color: #2568e4;
+        color: white;
+        text-align: center;
+        vertical-align: bottom;
+    }
+    
+    tr th {
+        border-left: 1px solid rgb(167, 187, 231, 50%);
+    }
+    
+    td {
+        text-align: center;
+    }
+    
+    td, tr {
+        padding: 1em;
+        border-bottom: 1px solid lightgrey;
+    }
+    
+    tr {
+        text-align: center, bottom;
+    }
+    
+    tr:nth-child(even) {background-color: #f2f2f2;}
+    
+    table caption {
+        font-weight: bold;
+        font-style: italic;
+    }
+    
+    table {
+        border-bottom: 0.3em solid #2568e4;
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        margin-bottom: 2em;
+        width: 450px;
+        padding-left: 25px
+       ;
+    }
+    iframe {
+        width: 100%;
+        height: auto;
+        margin-bottom: 2em;
+        border-radius: 20px;
+    }
+    .bloccocentr{ background-color: rgb(255, 255, 255);
+        width: 500px;
+        margin: 0 auto;
+        overflow: auto;
+        }
+     
+        
+.news{  
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    
+      } 
+
+      aside{  
+        text-align: center;
+        width: 500px;
+        border: 1px;
+        margin: 0 auto;
+        background-color: rgb(255, 255, 255);
+        padding-bottom: 20px;
+        box-shadow: 10px 10px 10px grey;
+          }   
+          aside h2 {
+            text-align: center;
+          
+            font-size: 2rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 1em;
+      } 
+      aside div {
+        background-color: #e3e3e3;
+        border: 1px solid #c3c3c3;
+        margin-bottom: 1em;
+        padding: 1em;
+    }
+   
+        
+     
+
+.corr{
+        background-color: lightgray;
+        border: 1px solid rgb(197, 188, 188);
+        margin-top: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    aside div p:last-child {
+        margin-bottom: 0;
+        font-size: 0.8em;
+        text-align: right;
+    }
+
+
+section{
+    background-color: lightgray;
+    padding: 5px;
+    margin: 10px 10px;
+}
+
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+ input{
+    border: 0;
+    border-bottom: 1px dashed;
+    padding: 5px;
+}
+
+ button{
+    background-color: #3366cc;
+    color: white;
+    border: 0;
+    padding: 3px;
+    font-weight: bold;
+}
+
+
+      footer{ background:linear-gradient(0deg, rgba(0,114,136,1) 0%, rgba(0,153,204,1) 100%);
+        color: white;
+        text-align: center;
+        width: 500px;
+        margin: 0 auto;
+        margin top: 25px;
+        box-shadow: 10px 10px 10px grey;
+        }
+        
+            
+        footer p{
+            padding: 10px;
+        
+        }
+        
+         address{
+            padding: 15px
+        
+         }
+        footer a{
+            text-decoration: none;
+        }
+        
